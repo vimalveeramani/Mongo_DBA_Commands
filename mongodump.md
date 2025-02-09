@@ -1,6 +1,5 @@
 # MongoDump: MongoDB Backup Utility
 
-![MongoDump Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB_Logo.svg)
 
 ## Description
 
