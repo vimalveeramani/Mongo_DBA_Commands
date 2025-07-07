@@ -1,0 +1,1 @@
+db.changeUserPassword("user",passwordPrompt());

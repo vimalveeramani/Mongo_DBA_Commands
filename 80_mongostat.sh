@@ -1,0 +1,1 @@
+mongostat --rowcount 100

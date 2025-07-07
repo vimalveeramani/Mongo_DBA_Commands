@@ -1,0 +1,1 @@
+db.adminCommand({ getCmdLineOpts: 1 });
