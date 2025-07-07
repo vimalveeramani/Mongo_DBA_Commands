@@ -1,0 +1,1 @@
+mongod --repair --dbpath /path/to/your/db

@@ -1,0 +1,1 @@
+db.your_collection_name.explain("executionStats").find({ key: "value" });

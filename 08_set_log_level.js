@@ -1,0 +1,1 @@
+db.setLogLevel(2, "replication");
